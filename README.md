@@ -1,6 +1,6 @@
-<title>CP3402 Assignment 2 - Group 8</title>
+# CP3402 Assignment 2 - Group 8
 
-Team**
+**Team**
 Jeffrey Timms
 Mary Louise Grace Couhault
 Davin Natanael
