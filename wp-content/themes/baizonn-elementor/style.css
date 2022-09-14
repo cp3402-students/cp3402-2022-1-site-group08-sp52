@@ -27,3 +27,34 @@ Tags: two-column, responsive-layout
 Text Domain: Baizonn-elementorchild
 
 */ 
+
+
+h1.entry-title{
+	display: none;
+	
+	
+	
+}
+.wpforms-form label{
+color:rgb(8, 152, 166)!important;
+}
+
+.comment-respond{
+	display: none;
+}
+
+.ha-creative-btn-wrap .ha-creative-btn {
+	border-color: none;
+}
+
+.ha-creative-btn-wrap {
+	border-color: none;
+	--ha-ctv-btn-border-clr: #6ec1e4;
+}
+.html, body {
+width: 100%;
+height: 100%;
+margin: 0px;
+padding: 0px;
+overflow-x: hidden;
+}
